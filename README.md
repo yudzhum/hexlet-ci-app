@@ -1,3 +1,6 @@
+### Github action status
+![Github action status](https://github.com/yudzhum/hexlet-ci-app/workflows/learn-github-actions.yml/badge.svg)
+
 # Example app for CI Hexlet course
 
 Starting boilerplate of [Strapi](https://strapi.io/) application
