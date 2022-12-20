@@ -1,5 +1,5 @@
 ### Github action status
-![Github action status](https://github.com/yudzhum/hexlet-ci-app/workflows/learn-github-actions.yml/badge.svg)
+![Github action status](https://github.com/yudzhum/hexlet-ci-app/actions/workflows/learn-github-actions.yml/badge.svg)
 
 # Example app for CI Hexlet course
 
